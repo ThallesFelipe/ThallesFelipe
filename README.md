@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá mundo! Eu sou o Thalles! 🦉
 
-<!--
-**ThallesFelipe/ThallesFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudande de Ciência da Computação na Universidade Federal de Ouro Preto.
+- 🌱 Aprendendo C, JavaScript, HTML e CSS.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ThallesFelipe">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesFelipe&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+  
+##
+  
+<div align="center">
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ 
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+          
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+ </div>
