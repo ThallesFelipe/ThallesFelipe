@@ -1,7 +1,7 @@
 ### Olá mundo! Eu sou o Thalles! 🦉
 
 - 🔭 Estudande de Ciência da Computação na Universidade Federal de Ouro Preto.
-- 🌱 Aprendendo C, JavaScript, HTML e CSS.
+- 🌱 Aprendendo C, Python, JavaScript, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/ThallesFelipe">
