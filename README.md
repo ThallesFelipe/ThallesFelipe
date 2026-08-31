@@ -10,10 +10,10 @@ Currently, I am interested in back-end engineering, artificial intelligence, mac
 
 ## Tech Stack
 
-**Languages:** C, C++, Python, JavaScript/TypeScript, Rust
-**Back-end:** NestJS, APIs, databases
+**Languages:** C, C++, Python, JavaScript/TypeScript, Java
+**Back-end:** Spring, NestJS, APIs, databases
 **AI / ML:** Python, data analysis, machine learning, intelligent systems
-**Front-end:** HTML, CSS, JavaScript
+**Front-end:** HTML, CSS, JavaScript/TypeScript
 **Other interests:** algorithms, optimization, distributed systems, operations research
 
 ## Featured Work
